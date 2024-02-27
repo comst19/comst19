@@ -20,8 +20,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="28px"/>
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=android&logoColor=white" height="28px" />
+  <br>
+
   
   
   </div>
