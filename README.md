@@ -3,7 +3,7 @@
 🎓 한국공학대학교 컴퓨터공학부 컴퓨터공학과 19학번<br>
 ✉️ <comst19@naver.com> <br>
 💻 UMC-4th,5th 첼린저(안드로이드)
-
+💻 씨부엉 20기
 
 <div align=center><h1>📚 STACKS</h1></div>
 
