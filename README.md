@@ -14,11 +14,11 @@
   <br>
   
   <img src="https://img.shields.io/badge/Kotlin-75F2FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-4263F7?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  
+
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="28px"/>
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=android&logoColor=white" height="28px" />
   <br>
